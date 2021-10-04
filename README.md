@@ -1,3 +1,4 @@
 # dummy-repo
-This repo is for git tutoria
-I have made some changesl
+This repo is for git tutorial
+I have made some changes
+More changes are made by someone else
